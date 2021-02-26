@@ -6,7 +6,7 @@ import android.os.Bundle;
 
 public class SplashActivity extends AppCompatActivity {
 
-    // BRANCH CODE OF APPLICATION
+    // BRANCH CODE OF APPLICATION - 26_FEB_2021_16_56
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

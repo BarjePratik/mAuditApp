@@ -6,7 +6,7 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
-    // BRANCH CODE OF APPLICATION
+    // BRANCH CODE OF APPLICATION - Final code
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
